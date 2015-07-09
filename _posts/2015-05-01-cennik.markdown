@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: IMG_0576.JPG
+alt: Cennik
+title: Cennik
+class: col-sm-12
+description: >
+    <p>Cena do 4 osób 140 zł/doba. Każda kolejna osoba +30zł.</p> 
+    <p>Maksymalnie 8 osób</p>
+    <p>Miejsce do parkowania, media i internet w cenie.</p>
+---

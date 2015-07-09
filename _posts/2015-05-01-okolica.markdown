@@ -1,0 +1,16 @@
+---
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: IMG_0546.JPG
+alt: Okolica
+title: Okolica
+class: col-sm-6
+description: >
+    <p>Około 10 minut spacerkiem do czystego jeziora.</p> 
+    <p>W sąsiadującej stadninie "Kopytko" można pojeździć konno i bryczką.</p> 
+    <p>Wookoło lasy pełne grzybów</p>
+    <p>Całość ogrzewana kominkiem</p>
+    <p>Zadaszony taras pozwala na przyjemny wypoczynek w upalne dni.</p>
+    
+---

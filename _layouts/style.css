@@ -1,0 +1,4 @@
+{% include css/bootstrap.min.css %}
+{% include css/blueimp-gallery.min.css %}
+{% include css/bootstrap-image-gallery.min.css %}
+{% include css/main.css %}

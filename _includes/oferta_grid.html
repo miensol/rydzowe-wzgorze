@@ -1,0 +1,23 @@
+<!-- Portfolio Grid Section -->
+<section id="oferta">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2>Oferta</h2>
+                <hr class="star-primary">
+            </div>
+        </div>
+        <div class="row">
+            {% for post in site.posts %}
+            <div class="{{ post.class }} oferta-item text-center">
+                <h3>{{ post.title }}</h3>
+                <hr/>
+                <div class="img-hover-wrapper">
+                    <img src="img/small/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+                </div>
+                <div class="description">{{ post.description | markdownify }}</div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</section>

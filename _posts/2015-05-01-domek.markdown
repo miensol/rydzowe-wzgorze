@@ -1,0 +1,15 @@
+---
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: IMG_0573.JPG
+alt: Domek
+title: Domek
+class: col-sm-6
+description: >
+    <p>Nowy całoroczny domek położony na ogrodzonej działce o powierzchni około 1000 m<sup>2</sup>.</p> 
+    <p>Umiejscowiony na wzgórzu, otoczony lasem, oddalony od najbliższych zabudowań o około 300m.</p>
+    <p>Całość ogrzewana kominkiem</p>
+    <p>Zadaszony taras pozwala na przyjemny wypoczynek w upalne dni.</p>
+    
+---

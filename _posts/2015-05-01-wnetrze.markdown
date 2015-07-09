@@ -1,0 +1,21 @@
+---
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: IMG_0532.JPG
+alt: Kuchnia
+title: Wnętrze
+class: col-sm-6
+description: >
+    - 2 sypialnie
+    
+    - salon z kominkiem
+    
+    - aneks kuchenny
+    
+    - 2 łazienki z prysznicem (parter i piętro)
+    
+    - 3 łóżka 2 osobowe
+    
+    - 2 łóżka 1 osobowe
+---

@@ -1,0 +1,68 @@
+# Site settings
+title: Rydzowe Wzgórze
+email: tabue.piotr@gmail.com
+url: https://rydzowe-wzgorze.github.io
+description: Domek całoroczny do wynajęcia w okolicy Koleczkowa (wojwództwo pomorskie).
+
+# Contact form: comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 18bc9c #80B3FF
+  secondary: 2c3e50 #FD6E8A
+  secondary-dark: 233140 #A2122F
+
+# Footer settings
+footer:
+  copyright: Rydzowe Wzgórza - Taube Piotr
+  location: Lokalizacja
+  social: Odezwij się
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: Facebook
+    url: https://www.facebook.com/rydzowewzgorze
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Bożańska 4
+  - line: Koleczkowo 84-209
+  - line: powiat wejherowski, województwo pomorskie
+
+# Credits content
+credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+gallery:
+  - image: IMG_0508.JPG
+  - image: IMG_0514.JPG
+  - image: IMG_0520.JPG
+  - image: IMG_0527.JPG
+  - image: IMG_0529.JPG
+  - image: IMG_0530.JPG
+  - image: IMG_0532.JPG
+  - image: IMG_0534.JPG
+  - image: IMG_0546.JPG
+  - image: IMG_0549.JPG
+  - image: IMG_0555.JPG
+  - image: IMG_0557.JPG
+  - image: IMG_0572.JPG
+  - image: IMG_0573.JPG
+  - image: IMG_0574.JPG
+  - image: IMG_0575.JPG
+  - image: IMG_0576.JPG
+  - image: IMG_0578.JPG
+  - image: IMG_0579.JPG
+  - image: IMG_0580.JPG
+  - image: IMG_1245.JPG
+  - image: IMG_1249.JPG
+  - image: IMG_1251.JPG
+  - image: IMG_1257.JPG
+  - image: IMG_1260.JPG
+  - image: IMG_1265.JPG
+  - image: IMG_1268.JPG
+  - image: IMG_1271.JPG
