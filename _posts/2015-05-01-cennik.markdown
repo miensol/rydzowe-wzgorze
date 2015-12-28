@@ -10,4 +10,5 @@ description: >
     <p>Cena do 4 osób 200 zł/doba. Każda kolejna osoba +50zł.</p> 
     <p>Maksymalnie 8 osób</p>
     <p>Miejsce do parkowania, media i internet w cenie.</p>
+    <p>Drewno kominkowe za opatą.</p>
 ---
