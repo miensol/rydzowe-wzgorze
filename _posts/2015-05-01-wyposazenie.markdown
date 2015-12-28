@@ -19,6 +19,6 @@ description: >
     
     - meble ogrodowe
     
-    - miejsce na ognisko i gril
+    - miejsce na ognisko i grill
     
 ---
