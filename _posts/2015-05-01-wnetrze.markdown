@@ -13,7 +13,7 @@ description: >
     
     - aneks kuchenny
     
-    - 2 łazienki z prysznicem (parter i piętro)
+    - 2 łazienki z prysznicem
     
     - 3 łóżka 2 osobowe
     
