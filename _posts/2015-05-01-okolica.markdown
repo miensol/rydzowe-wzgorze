@@ -12,5 +12,5 @@ description: >
     <p>Wookoło lasy pełne grzybów</p>
     <p>Całość ogrzewana kominkiem</p>
     <p>Zadaszony taras pozwala na przyjemny wypoczynek w upalne dni.</p>
-    <p>Niedaleko jezioro "Okuniewo" dla wedkarzy.</p>
+    <p>Niedaleko jezioro "Okuniewo" dla wędkarzy.</p>
 ---
