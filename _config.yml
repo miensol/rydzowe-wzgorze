@@ -38,28 +38,70 @@ markdown: kramdown
 permalink: pretty
 
 gallery:
-  - image: IMG_0508.JPG
-  - image: IMG_0514.JPG
+  - image: IMG_0307.jpg
+  - image: IMG_0313.jpg
+  - image: IMG_0316.jpg
+  - image: IMG_0327.jpg
+  - image: IMG_0341.jpg
   - image: IMG_0520.JPG
-  - image: IMG_0527.JPG
-  - image: IMG_0529.JPG
-  - image: IMG_0530.JPG
   - image: IMG_0532.JPG
-  - image: IMG_0534.JPG
   - image: IMG_0546.JPG
   - image: IMG_0549.JPG
-  - image: IMG_0555.JPG
-  - image: IMG_0557.JPG
   - image: IMG_0579.JPG
   - image: IMG_0580.JPG
-  - image: IMG_1245.JPG
+  - image: IMG_0782.JPG
+  - image: IMG_0799.JPG
+  - image: IMG_0800.JPG
   - image: IMG_1249.JPG
   - image: IMG_1251.JPG
-  - image: IMG_1257.JPG
   - image: IMG_1260.JPG
   - image: IMG_1265.JPG
   - image: IMG_1268.JPG
-  - image: IMG_1271.JPG
-  - image: IMG_0782.JPG
-  - image: IMG_0800.JPG
+  - image: IMG_1301.jpg
+  - image: IMG_1302.jpg
+  - image: IMG_1303.jpg
+  - image: IMG_1304.jpg
+  - image: IMG_1305.jpg
+  - image: IMG_1306.jpg
+  - image: IMG_1308.jpg
+  - image: IMG_1309.jpg
+  - image: IMG_1310.jpg
+  - image: IMG_1311.jpg
+  - image: IMG_1312.jpg
+  - image: IMG_1314.jpg
+  - image: IMG_1315.jpg
+  - image: IMG_1317.jpg
+  - image: IMG_1318.jpg
+  - image: IMG_1319.jpg
+  - image: IMG_1320.jpg
+  - image: IMG_1321.jpg
+  - image: IMG_1322.jpg
+  - image: IMG_1323.jpg
+  - image: IMG_1324.jpg
+  - image: IMG_1325.jpg
+  - image: IMG_1326.jpg
+  - image: IMG_1329.jpg
+  - image: IMG_1330.jpg
+  - image: IMG_1331.jpg
+  - image: IMG_1334.jpg
+  - image: IMG_1335.jpg
+  - image: IMG_1339.jpg
+  - image: IMG_1340.jpg
+  - image: IMG_1342.jpg
+  - image: IMG_1343.jpg
+  - image: IMG_1345.jpg
+  - image: IMG_1346.jpg
+  - image: IMG_1347.jpg
+  - image: IMG_1349.jpg
+  - image: IMG_1350.jpg
+  - image: IMG_1351.jpg
+  - image: IMG_1353.jpg
+  - image: IMG_1354.jpg
+  - image: IMG_1355.jpg
+  - image: IMG_1357.jpg
+  - image: IMG_1358.jpg
+  - image: IMG_3245.JPG
+  - image: IMG_3271.JPG
+  - image: IMG_3508.JPG
+  - image: IMG_3527.JPG
   - image: siema.jpg

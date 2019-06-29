@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: IMG_0558.JPG
+img: IMG_1309.JPG
 alt: Domek
 title: Domek
 class: col-sm-6

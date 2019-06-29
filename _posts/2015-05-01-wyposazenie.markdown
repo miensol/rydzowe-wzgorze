@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: IMG_0520.JPG
+img: IMG_1335.JPG
 alt: Wyposażenie
 title: Wyposażenie
 class: col-sm-6
