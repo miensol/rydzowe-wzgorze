@@ -521,7 +521,6 @@ header hr.star-light:after {
 
 .intro-text {
     background-color: rgba(44, 62, 80, 0.2);
-    filter: blur(13px)
 }
 
 .telephone, .telephone:hover {
