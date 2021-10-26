@@ -4,3 +4,4 @@ _site/
 img/zle
 bin/
 *.sh
+.bundle
